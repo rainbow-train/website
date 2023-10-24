@@ -1,0 +1,14 @@
+---
+title: Get started with Blogging
+subtitle: A template for a Blog.
+description: |
+  This is a template from which the YAML metadata can be copied for a new blog post. 
+author: Lars Schöbitz
+date: today 
+draft: false
+bibliography: "../../rainbow-train.bib" 
+---
+
+## Heading
+
+Cite this paper [@wilson2017good].
