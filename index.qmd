@@ -1,11 +1,16 @@
 ---
-title: "website-template"
+title: "About"
+subtitle: "Lars Schöbitz"
+image: norman-tsui-PoF0kgQm9hE-unsplash.jpg
+about: 
+  template: trestles
+format:
+  html:
+    toc: false
 ---
 
-This is a Quarto website.
+2 to 3 sentences.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Heading A
 
-```{r}
-1 + 1
-```
+## Heading B
